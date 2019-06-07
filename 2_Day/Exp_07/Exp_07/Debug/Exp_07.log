@@ -1,0 +1,4 @@
+﻿  Exp_07.cpp
+c:\users\heateck\desktop\cpp_study\2_day\exp_07\exp_07\exp_07.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Exp_07.vcxproj -> C:\Users\heateck\Desktop\CPP_Study\2_Day\Exp_07\Debug\Exp_07.exe
