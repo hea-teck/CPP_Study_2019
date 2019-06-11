@@ -1,0 +1,7 @@
+﻿  Exp_24-4.cpp
+c:\users\heateck\desktop\cpp_study\4_day\exp_24\exp_24\exp_24-4.cpp(15): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\heateck\desktop\cpp_study\4_day\exp_24\exp_24\exp_24-4.cpp(17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\heateck\desktop\cpp_study\4_day\exp_24\exp_24\exp_24-4.cpp(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\heateck\desktop\cpp_study\4_day\exp_24\exp_24\exp_24-4.cpp(20): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\heateck\desktop\cpp_study\4_day\exp_24\exp_24\exp_24-4.cpp(21): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Exp_24.vcxproj -> C:\Users\heateck\Desktop\CPP_Study\4_Day\Exp_24\Debug\Exp_24.exe
