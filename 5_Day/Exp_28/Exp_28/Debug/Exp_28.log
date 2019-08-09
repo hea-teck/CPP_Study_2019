@@ -1,0 +1,3 @@
+﻿  Exp_28-2.cpp
+c:\users\heateck\desktop\cpp_study\5_day\exp_28\exp_28\exp_28-2.cpp(8): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  Exp_28.vcxproj -> C:\Users\heateck\Desktop\CPP_Study\5_Day\Exp_28\Debug\Exp_28.exe
