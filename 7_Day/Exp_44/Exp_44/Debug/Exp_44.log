@@ -1,0 +1,3 @@
+﻿  Exp_44.cpp
+c:\users\heateck\desktop\cpp_study\7_day\exp_44\exp_44\exp_44.cpp(18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Exp_44.vcxproj -> C:\Users\heateck\Desktop\CPP_Study\7_Day\Exp_44\Debug\Exp_44.exe
