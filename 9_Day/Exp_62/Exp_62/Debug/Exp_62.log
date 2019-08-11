@@ -1,0 +1,4 @@
+﻿  Exp_62.cpp
+c:\users\heateck\desktop\cpp_study\9_day\exp_62\exp_62\exp_62.cpp(40): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+c:\users\heateck\desktop\cpp_study\9_day\exp_62\exp_62\exp_62.cpp(42): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+  Exp_62.vcxproj -> C:\Users\heateck\Desktop\CPP_Study\9_Day\Exp_62\Debug\Exp_62.exe
